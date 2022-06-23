@@ -1,5 +1,4 @@
 # Rpachallenge.com Automation with UiPath
-# Inventory Management practise with UiPath
 
 This project was made during UiPath developer foundation course to learn more about it
 
